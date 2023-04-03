@@ -1,0 +1,5 @@
+Résistance = (Tension source - Chute de tension de la LED) / Courant LED souhaité
+
+La tension source est de 5 volts et la chute de tension de la LED est de 2 volts. Le courant LED souhaité est de 10 milliampères. En insérant ces valeurs dans la formule, nous obtenons:
+
+Résistance = (5 - 2) / 0,01 Résistance = 300 ohms
